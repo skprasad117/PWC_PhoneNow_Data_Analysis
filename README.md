@@ -13,6 +13,7 @@ The dashboard includes the following features:
 - Agent performance quadrant, showing the average handle time (talk duration) vs calls answered
 <img src="https://github.com/skprasad117/PWC_PhoneNow_Data_Analysis/blob/main/Customer.JPG" alt="Alt text" style="width:500px;height:300px;">
 <img src="https://github.com/skprasad117/PWC_PhoneNow_Data_Analysis/blob/main/agent.JPG" alt="Alt text" style="width:500px;height:300px;">
+
 ## Getting Started
 
 To use this dashboard, you will need to have Power BI Desktop installed on your computer. You can download Power BI Desktop for free from the Microsoft website.
